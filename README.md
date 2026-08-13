@@ -1,6 +1,10 @@
+
 # Vhanjedzi-Tech-Industries
+
 ST10514832 Munjedzi Mulondo Trinity
+
 #project overview
+
 Vhanjedzi Tech Industries is a technology-focused company established in 2026 to provide reliable and innovative technology solutions to individuals, students, small businesses, and organisations. The company aims to use modern technology to solve everyday business and technical challenges.The mission of Vhanjedzi Tech Industries is to provide affordable, reliable, and accessible technology solutions while helping businesses improve their digital presence and productivity.
 #Website Goal and Objectives
 * Increase awareness of Vhanjedzi Tech Industries and its services.
