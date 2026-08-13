@@ -6,7 +6,9 @@ ST10514832 Munjedzi Mulondo Trinity
 #project overview
 
 Vhanjedzi Tech Industries is a technology-focused company established in 2026 to provide reliable and innovative technology solutions to individuals, students, small businesses, and organisations. The company aims to use modern technology to solve everyday business and technical challenges.The mission of Vhanjedzi Tech Industries is to provide affordable, reliable, and accessible technology solutions while helping businesses improve their digital presence and productivity.
+
 #Website Goal and Objectives
+
 * Increase awareness of Vhanjedzi Tech Industries and its services.
 * Attract new customers through a professional online presence.
 * Provide customers with an easy way to learn about available services.
@@ -16,9 +18,13 @@ Vhanjedzi Tech Industries is a technology-focused company established in 2026 to
 
 Implement an easy-to-use contact and enquiry form so customers can request information or services without needing to visit the company physically.Display the company’s technology services with clear descriptions, images, and relevant information.Present company information, testimonials, previous work, and contact details to establish trust with potential customers.Ensure the website works effectively on smartphones, tablets, laptops, and desktop computers.
 
+
 #Site Map
+  
   Home , About , Contct , Enquiries , Services
+
 #Key performance indicators(KPI)
+
 * Number of online customer enquiries.
 * Number of visitors to the website.
 * Number of service-page views.
@@ -27,8 +33,11 @@ Implement an easy-to-use contact and enquiry form so customers can request infor
 * Growth in website traffic from social media.
 * Positive customer feedback and reviews.
 
+
 #Timeline and Milestones 
+
 Weeks 1–2: Research and Planning
+
 
 * Research the technology industry and target audience.
 * Collect company information and website content.
@@ -54,6 +63,7 @@ Weeks 7–8: JavaScript, Testing and Finalisation
 * Fix errors and prepare the website for deployment.
 
 #REFERENCES
+
 Independent Institute of Education. (2026). WEDE5020 Project Guide. Rosebank College.
 
 Nielsen Norman Group. (2025). Web Usability Guidelines. Nielsen Norman Group.
