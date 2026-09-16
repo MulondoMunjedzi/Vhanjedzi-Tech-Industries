@@ -62,6 +62,9 @@ Weeks 7–8: JavaScript, Testing and Finalisation
 * Test website functionality and responsiveness.
 * Fix errors and prepare the website for deployment.
 
+#Changelog
+
+
 #REFERENCES
 
 Independent Institute of Education. (2026). WEDE5020 Project Guide. Rosebank College.
