@@ -63,6 +63,22 @@ Weeks 7–8: JavaScript, Testing and Finalisation
 * Fix errors and prepare the website for deployment.
 
 #Changelog
+1.added a css file
+  created a css file to style the website
+2.added colours
+  added colours to the background, text,buttons and sections
+3.styled  the navigation bar
+  changed the appearance of the navigation links
+4.styled headings 
+  changed font size and font style
+5.added styling to divs
+ added borders and backgrounds to the div sections
+6.improved page layout
+ .used css to make the website look more organised and attrractive
+7.added responsive styling
+ .made some parts of the website adjust better to different to different screen sizes
+  
+
 
 
 #REFERENCES
